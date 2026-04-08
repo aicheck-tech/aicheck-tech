@@ -1,0 +1,1 @@
+import{g as e,f as t}from"./entry.05b0db93.js";import{u as a,s,a as _}from"./utils.43920732.js";const c={__name:"chatbot",setup(o){return a(s("chatbot",_({addSeoAttributes:!0}))),(r,u)=>t("",!0)}},p=e(c,[["__scopeId","data-v-e5bcc608"]]);export{p as default};

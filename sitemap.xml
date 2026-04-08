@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <!-- Czech lang -->
+    <url>
+        <loc>https://www.aicheck.tech</loc>
+        <lastmod>2023-05-15</lastmod>
+        <xhtml:link
+                rel="canonical"
+                hreflang="cs"
+                href="https://www.aicheck.tech"/>
+        <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aicheck.tech/en"/>
+    </url>
+
+    <url>
+        <loc>https://www.aicheck.tech/what-we-do</loc>
+        <lastmod>2023-05-15</lastmod>
+        <xhtml:link
+                rel="canonical"
+                hreflang="cs"
+                href="https://www.aicheck.tech/what-we-do"/>
+        <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aicheck.tech/en/what-we-do"/>
+    </url>
+
+    <url>
+        <loc>https://www.aicheck.tech/services</loc>
+        <lastmod>2023-05-15</lastmod>
+        <xhtml:link
+                rel="canonical"
+                hreflang="cs"
+                href="https://www.aicheck.tech/services"/>
+        <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aicheck.tech/en/services"/>
+    </url>
+
+    <url>
+        <loc>https://www.aicheck.tech/faq</loc>
+        <lastmod>2023-05-15</lastmod>
+        <xhtml:link
+                rel="canonical"
+                hreflang="cs"
+                href="https://www.aicheck.tech/faq"/>
+        <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aicheck.tech/en/faq"/>
+    </url>
+
+    <url>
+        <loc>https://www.aicheck.tech/about-us</loc>
+        <lastmod>2023-05-15</lastmod>
+        <xhtml:link
+                rel="canonical"
+                hreflang="cs"
+                href="https://www.aicheck.tech/about-us"/>
+        <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aicheck.tech/en/about-us"/>
+    </url>
+
+    <url>
+        <loc>https://www.aicheck.tech/chatbot</loc>
+        <lastmod>2023-05-15</lastmod>
+        <xhtml:link
+                rel="canonical"
+                hreflang="cs"
+                href="https://www.aicheck.tech/chatbot"/>
+        <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aicheck.tech/en/chatbot"/>
+    </url>
+
+    <!-- English lang -->
+    
+    <url>
+        <loc>https://www.aicheck.tech/en</loc>
+        <lastmod>2023-05-15</lastmod>
+        <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://www.aicheck.tech"/>
+        <xhtml:link
+                rel="canonical"
+                hreflang="en"
+                href="https://www.aicheck.tech/en"/>
+    </url>
+
+    <url>
+        <loc>https://www.aicheck.tech/en/what-we-do</loc>
+        <lastmod>2023-05-15</lastmod>
+        <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://www.aicheck.tech/what-we-do"/>
+        <xhtml:link
+                rel="canonical"
+                hreflang="en"
+                href="https://www.aicheck.tech/en/what-we-do"/>
+    </url>
+
+    <url>
+        <loc>https://www.aicheck.tech/en/services</loc>
+        <lastmod>2023-05-15</lastmod>
+        <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://www.aicheck.tech/services"/>
+        <xhtml:link
+                rel="canonical"
+                hreflang="en"
+                href="https://www.aicheck.tech/en/services"/>
+    </url>
+
+    <url>
+        <loc>https://www.aicheck.tech/en/faq</loc>
+        <lastmod>2023-05-15</lastmod>
+        <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://www.aicheck.tech/faq"/>
+        <xhtml:link
+                rel="canonical"
+                hreflang="en"
+                href="https://www.aicheck.tech/en/faq"/>
+    </url>
+
+    <url>
+        <loc>https://www.aicheck.tech/en/about-us</loc>
+        <lastmod>2023-05-15</lastmod>
+        <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://www.aicheck.tech/about-us"/>
+        <xhtml:link
+                rel="canonical"
+                hreflang="en"
+                href="https://www.aicheck.tech/en/about-us"/>
+    </url>
+
+    <url>
+        <loc>https://www.aicheck.tech/en/chatbot</loc>
+        <lastmod>2023-05-15</lastmod>
+        <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://www.aicheck.tech/chatbot"/>
+        <xhtml:link
+                rel="canonical"
+                hreflang="en"
+                href="https://www.aicheck.tech/en/chatbot"/>
+    </url>
+</urlset>
